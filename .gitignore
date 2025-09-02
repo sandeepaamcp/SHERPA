@@ -1,0 +1,8 @@
+venv
+.idea
+#dataset
+.ipynb_checkpoints
+__pycache__
+benchmarking
+/notebooks/data/
+/saves/
