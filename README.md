@@ -58,6 +58,7 @@ SHERPA/
 ├─ main.py                                  # Scripted entry-point (experiments)
 ├─ .gitignore
 └─ README.md
+```
 
 ## SHERPA Summary
 
